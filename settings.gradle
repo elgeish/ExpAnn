@@ -1,0 +1,4 @@
+rootProject.name = 'ExpAnn'
+
+include 'annotation'
+include 'annotation-test'
